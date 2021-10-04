@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 
 **Here are some ideas to get you started:**
 
@@ -9,4 +8,4 @@
 👩‍💻 We are into Discord Bots for now and will start growing our knowledge and skills with time
 🍿 Fun facts - we are known troubleshooters for shooting troubles on people , jk 
 🧙 ssahi !
--->
+
